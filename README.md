@@ -1,4 +1,7 @@
 # README
+jupyter tensorflow notebook
+
+### Instructions
 * Activate virtualenv:
 ```text
 source venv/bin/activate
