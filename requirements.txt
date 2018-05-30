@@ -4,3 +4,4 @@ tensorflow
 tensorflow-gpu
 keras
 jupyter
+jupyterthemes

@@ -14,3 +14,22 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
+* travis https://travis-ci.org/
+
+* jupyterthemes
+```text
+jt -l
+jt -t chesterish
+```
+
+* using dockerfile
+```text
+docker build -t fengtensorflow .
+```
+
+
+*
+```text
+cp env.example .env
+docker-compose up
+```
