@@ -11,10 +11,6 @@ source venv/bin/activate
 * generate requirements.txt
 ```text
 pip freeze > requirements.txt
-```
-
-* Install all python requirements for our project
-```text
 pip install -r requirements.txt
 ```
 
@@ -27,7 +23,6 @@ jt -t chesterish
 
 #### method 1 (mac os gpu bug)
 * run tensor.ipynb
-
 
 #### method 2
 * docker tensorflow
