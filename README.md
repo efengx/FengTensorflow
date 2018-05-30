@@ -1,4 +1,4 @@
-# README #
+# README
 * Activate virtualenv:
 ```text
 source venv/bin/activate
@@ -15,21 +15,18 @@ pip install -r requirements.txt
 ```
 
 * travis https://travis-ci.org/
-
 * jupyterthemes
 ```text
 jt -l
 jt -t chesterish
 ```
 
-* using dockerfile
-```text
-docker build -t fengtensorflow .
-```
+#### method 1 (mac os gpu bug)
+* run tensor.ipynb
 
 
-*
+#### method 2
+* docker tensorflow
 ```text
-cp env.example .env
 docker-compose up
 ```
