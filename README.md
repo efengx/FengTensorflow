@@ -1,5 +1,6 @@
 # README
 jupyter tensorflow notebook
+- Goal 1: Pan Artificial Intelligence
 
 ### Instructions
 * Activate virtualenv:
