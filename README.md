@@ -18,7 +18,7 @@ jt -t chesterish
 - travis https://travis-ci.org/
 
 ### Using
-- docker tensorflow
+- docker tensorflowd
 ```text
-docker-compose up
+docker-compose up -d
 ```
